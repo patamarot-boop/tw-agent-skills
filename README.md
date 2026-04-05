@@ -68,3 +68,4 @@ api/
 ## License
 
 MIT
+patamarot@gmail.com
